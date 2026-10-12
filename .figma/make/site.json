@@ -1,0 +1,11 @@
+{
+  "title": "Capsule 4 Part",
+  "description": "Manage and control premium capsule wellness sessions with coordinated interfaces for customers, staff, and mobile users, ensuring seamless operation and personalized care.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
